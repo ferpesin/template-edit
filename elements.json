@@ -1,13 +1,14 @@
 var _Elements = {"elements": {
     "Headers":[
-    	{"url":"elements/header5.html","height":618, "thumbnail":"elements/images/thumbs/header5.png"},
-    	{"url":"elements/header1.html","height":481, "thumbnail":"elements/images/thumbs/header1.png"},
+    	/*{"url":"elements/header5.html","height":618, "thumbnail":"elements/images/thumbs/header5.png"},*/
+		{"url":"elements/template1.html","height":2000,"thumnail":"elements/images/thumbs/header5.png"}
+    	/*{"url":"elements/header1.html","height":481, "thumbnail":"elements/images/thumbs/header1.png"},
     	{"url":"elements/header6.html","height":491, "thumbnail":"elements/images/thumbs/header6.png"},
     	{"url":"elements/header2.html","height":498, "thumbnail":"elements/images/thumbs/header2.png"},
     	{"url":"elements/header3.html","height":959, "thumbnail":"elements/images/thumbs/header3.png"},
     	{"url":"elements/header4.html","height":662, "thumbnail":"elements/images/thumbs/header4.png"},
-    	{"url":"elements/header7.html","height":665, "thumbnail":"elements/images/thumbs/header7.png"}
-    ],
+    	{"url":"elements/header7.html","height":665, "thumbnail":"elements/images/thumbs/header7.png"}*/
+    ]/*,
     "Content Sections":[
     	{"url":"elements/content_section1.html","height":481, "thumbnail":"elements/images/thumbs/content_section1.png"},
     	{"url":"elements/content_section2.html","height":520, "thumbnail":"elements/images/thumbs/content_section2.png"},
@@ -50,6 +51,6 @@ var _Elements = {"elements": {
     	{"url":"elements/footer1.html","height":364, "thumbnail":"elements/images/thumbs/footer1.png"},
     	{"url":"elements/footer2.html","height":172, "thumbnail":"elements/images/thumbs/footer2.png"},
     	{"url":"elements/footer3.html","height":300, "thumbnail":"elements/images/thumbs/footer3.png"}
-    ]
+    ]*/
     }
 }
